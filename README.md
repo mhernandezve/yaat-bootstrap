@@ -1,2 +1,2 @@
 # yaat-bootstrap
-Bootstrap scripts for provisioning YAAT - Yet Another Auto Tool for dotfiles management
+Bootstrap scripts for provisioning YAAT - Yet Another Assets Tool for dotfiles management
